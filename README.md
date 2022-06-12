@@ -1,0 +1,1 @@
+The most simple template for an 11ty + TailwindCSS site.
